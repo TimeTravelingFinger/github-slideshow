@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to the TimeTravelingFinger Show!"
 ---
-"Somebody Stop me" https://i.pinimg.com/236x/f0/28/15/f0281559dcd39dd5e1176f8cb7e46213.jpg
+As the Mask would say "Somebody Stop me!"
 Use the left arrow to go back!
